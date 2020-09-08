@@ -25,7 +25,7 @@ public class Person {
         return city;
     }
 
-    public String getTypegetAge() {
+    public int getAge() {
         return age;
     }
 
